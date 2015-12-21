@@ -1,0 +1,36 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">8dp</dimen>
+    <dimen name="activity_vertical_margin">8dp</dimen>
+
+    <dimen name="font_size_small">10sp</dimen>
+
+    <!-- Per the design guidelines, navigation drawers should be between 240dp and 320dp:
+         https://developer.android.com/design/patterns/navigation-drawer.html -->
+    <dimen name="navigation_drawer_width">240dp</dimen>
+
+    <!--
+    <dimen name="dialog_change_location_width">300dp</dimen>
+    <dimen name="dialog_change_location_height">460dp</dimen>
+    -->
+
+    <dimen name="fab_press_translation_z">12dp</dimen>
+    <dimen name="fab_size">56dp</dimen>
+    <dimen name="fab_size_small">40dp</dimen>
+    <dimen name="fab_icon_size">24dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="frame_title_height">26sp</dimen>
+
+    <dimen name="icon_font_size">32sp</dimen>
+    <dimen name="icon_left_margin">8dp</dimen>
+    <dimen name="icon_right_margin">8dp</dimen>
+
+    <!-- AccessCodeFragment -->
+    <dimen name="access_code_frame_buttons_height">20sp</dimen>
+    <dimen name="access_code_frame_numbers_height">32sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">120dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+</resources>

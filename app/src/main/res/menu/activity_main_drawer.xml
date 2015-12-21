@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/main_menu_group1">
+        <item
+            android:id="@+id/main_menu_calendar"
+            android:title="Calendar"/>
+        <item
+            android:id="@+id/main_menu_audit_management"
+            android:title="Audit Management"/>
+        <item
+            android:id="@+id/main_menu_bbs"
+            android:title="Behavior Based Safety"/>
+        <item
+            android:id="@+id/main_menu_wellness"
+            android:title="Wellness Check"/>
+    </group>
+
+    <group android:id="@+id/main_menu_group2">
+
+            <item
+                android:id="@+id/main_menu_change_location"
+                android:icon="@drawable/ic_place_black_24dp"
+                android:title="Change Location"/>
+            <item
+                android:id="@+id/main_menu_logout"
+                android:icon="@drawable/ic_power_settings_new_black_24dp"
+                android:title="Log Off"/>
+
+    </group>
+
+</menu>
